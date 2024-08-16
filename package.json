@@ -1,0 +1,16 @@
+{
+	"name": "express",
+	"version": "1.0.0",
+	"description": "express.js checkpoint",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"author": "CGAJAY",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.19.2"
+	}
+}
